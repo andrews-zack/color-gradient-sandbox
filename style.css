@@ -1,0 +1,16 @@
+body {
+    width: 100vw;
+    min-height: 100vh;
+    background: conic-gradient(#fff 5deg, #000 30deg, #fff 5deg, #000);
+    background-position: 0 0;
+    background-size: 100%;
+    color: #fff;
+    font-size: 3rem;
+    font-family: "Roboto Mono", monospace;
+  }
+  
+  h1 {
+    padding: 2rem;
+    margin: 0;
+    text-shadow: 6px 6px 0px rgba(0, 0, 0, 0.2);
+  }
