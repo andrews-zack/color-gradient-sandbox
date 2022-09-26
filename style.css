@@ -1,7 +1,7 @@
 body {
     width: 100vw;
     min-height: 100vh;
-    background: conic-gradient(rgb(1, 199, 199) 5deg, #000 30deg, rgb(1, 199, 199) 5deg, #000);
+    background: conic-gradient(rgb(256, 256, 256) 5deg, #000 30deg, rgb(256, 256, 256) 5deg, #000);
     background-position: 0 0;
     background-size: 100%;
     color: #fff;
